@@ -24,3 +24,16 @@
 **Link(s) to work**
 1. [Calculate your BMI]()
 2. [Calculate your macronutrients]()
+
+
+### Day 3: July 29, 2017
+
+**Today's Progress**: API Fitness functions in NPM version 0.0.3
+
+**Thoughts:** Documentacion in code added, some formulas are fixed.
+
+**Link to work:** [Soul4API App]  (https://www.npmjs.com/package/soul4api)
+
+**Link(s) to work**
+1. [Calculate your BMI]()
+2. [Calculate your macronutrients]()
