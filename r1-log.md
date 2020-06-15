@@ -15,5 +15,5 @@ The log of my #100DaysOfCode challenge. Started on [June 13 - 2020].
 - Date: June 14 - 2020
 - Project: Scroll Page
 - Objective: Practice JS and CSS animations using page scroll
-- Finalized URL: 
+- Finalized URL: https://gara501.github.io/ScrollPage/
 - Repo: https://github.com/gara501/ScrollPage
