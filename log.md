@@ -18,9 +18,10 @@
 - **Repo**: https://github.com/gara501/DragonBallCards
 
 ### R1D2
-- **Date**: June 14 - 2020
+- **Date**: June 14, 15 - 2020
 - **Project**: Scroll Page
 - **Objective**: Practice JS and CSS animations using page scroll
+- **Total Days**: 2
 - **Finalized URL**: https://gara501.github.io/ScrollPage/
 - **Repo**: https://github.com/gara501/ScrollPage
 
