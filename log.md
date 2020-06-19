@@ -25,3 +25,9 @@
 - **Finalized URL**: https://gara501.github.io/ScrollPage/
 - **Repo**: https://github.com/gara501/ScrollPage
 
+### R1D3
+- **Date**: June 18 - 2020
+- **Project**: Simple Template
+- **Objective**: Create a template generator for web apps with Python
+- **Total Days**: 1
+- **Repo**: https://github.com/gara501/webtemplatebase/
